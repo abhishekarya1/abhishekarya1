@@ -6,6 +6,7 @@
 - 🌱 Dabbles in, but not limited to: 
   - C/C++/Unix/Java/PHP/Javascript/Python
   - Data Structures, algorithms, and number crunching
+  - Deep Learning Architectures and Applications
   - Penetration testing and Kali Linux afficianado
 - ⚡ Loving Indian indie music, aesthetic art and vibes
   
