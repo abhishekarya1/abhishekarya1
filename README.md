@@ -1,10 +1,11 @@
 #### I am Abhishek Arya
-- 📕 A CSE graduate of Galgotias University, India.
+- 📕 A 2020 CSE graduate from Galgotias University, India.
 - 👔 Currently working at Tata Consultancy Services as a Systems Engineer.
 - 📧 Email: abhishekarya102@gmail.com
 - 🔭 Currently fiddling with some Python libraries for web backend, GUI, etc...  
 - 🌱 Forever learner of C/C++/Unix/Java/PHP/Javascript/Python
 - ⚡ Loving Indian indie music and aesthetics
+
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=abhishekarya1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
