@@ -8,5 +8,7 @@
   - Data Structures, algorithms, and number crunching
   - Penetration testing and Kali Linux afficianado
 - ⚡ Loving Indian indie music, aesthetic art and vibes
+  
+![My Github stats](https://github-readme-stats.vercel.app/api?username=abhishekarya1&count_private=true)
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=abhishekarya1)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekarya1&layout=compact)
