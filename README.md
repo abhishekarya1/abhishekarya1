@@ -1,10 +1,10 @@
-#### I am Abhishek Arya
+#### Yo! I am Abhishek Arya
 - 📕 A 2020 CSE graduate from Galgotias University, India.
 - 👔 Currently working at Tata Consultancy Services as a Systems Engineer.
 - 📧 Email: abhishekarya102@gmail.com
-- 🔭 Currently fiddling with some Python libraries and frameworks for web backend, GUI, etc...  
+- 🔭 Currently fiddling with some Python libraries and frameworks for web backend, CLI, etc...  
 - 🌱 Dabbles in, but not limited to: 
-  - C/C++/Unix/Java/PHP/Javascript/Python
+  - C/C++/Java/Javascript/Python
   - Data Structures, algorithms, and number crunching
   - Deep Learning Architectures and Applications
   - Penetration testing and Kali Linux afficianado
