@@ -34,7 +34,7 @@
   </div>
   <div>
    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-PostgreSQL-003545?logo=postgresql&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge"/>
   </div>
