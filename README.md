@@ -34,7 +34,7 @@
   </div>
   <div>
    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-PostgreSQL-003545?logo=postgresql&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge"/>
   </div>
@@ -53,10 +53,14 @@
  <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge"/>
 </span>
 
-<h3><i>Others</i></h3>
+<h3><i>Others & Tools</i></h3>
 <span>
+ <img src="https://img.shields.io/badge/-sublime text-FF9800?logo=sublimetext&logoColor=white&style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/-eclipse-2C2255?logo=eclipse&logoColor=white&style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/-intellij idea-000000?logo=intellijidea&logoColor=white&style=for-the-badge"/>  
  <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge"/>
  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
+
 </span>
   </div>
 
