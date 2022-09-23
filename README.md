@@ -76,7 +76,6 @@
 ---
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=abhishekarya1&count_private=true&show_icons=true&bg_color=F5B9A8&hide_border=true&border_radius=0&title_color=0FA691&icon_color=0FA691)
-![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekarya1&layout=compact&bg_color=F5B9A8&hide_border=true&border_radius=0&title_color=0FA691)
 
 ---  
   
