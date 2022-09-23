@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [_Checkout my Portfolio, Blogs and Projects on my site 🚀_](https://www.abhishekarya.com/)  
+  [_Checkout the blogs and projects on my site 🚀_](https://www.abhishekarya.com/)  
   
 </div>
 
