@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Java-F79918?logo=java&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logo=GoColor=white&style=for-the-badge"/>
  <img src="https://img.shields.io/badge/-BASH-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge"/>
 </span>
 
@@ -49,6 +51,7 @@
 <span>
  <img src="https://img.shields.io/badge/-Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge"/>
  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-GCP-4285F4?logo=gcp&logoColor=white&style=for-the-badge"/>
  <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge"/>
  <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge"/>
 </span>
@@ -56,11 +59,6 @@
 <h3><i>Others & Tools</i></h3>
 <span>
    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/-sublime text-FF9800?logo=sublimetext&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/-eclipse-2C2255?logo=eclipse&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/-intellij idea-000000?logo=intellijidea&logoColor=white&style=for-the-badge"/>  
- <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
 </span>
   </div>
 
