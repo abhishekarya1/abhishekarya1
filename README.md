@@ -20,14 +20,14 @@
 <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Java-F79918?logo=openjdk&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge"/>  
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
 </span>
 
 <h3><i>Backend</i></h3>
 
 <div>
-   <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=for-the-badge"/>
   </div>
@@ -52,22 +52,30 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
    <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge"/>
 </span>
 
 <h3><i>Cloud</i></h3>
 <span>
- <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge"/>
 </span>
 
-<h3><i>Others</i></h3>
+<h3><i>Tools</i></h3>
 <span>
-   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/-BASH-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-BASH-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge"/>
 </span>
+
+<h3><i>AI</i></h3>
+<span>
+  <img src="https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Github%20Copilot-222222?logo=githubcopilot&logoColor=white&style=for-the-badge"/>
+</span>
+
   </div>
 
 ---
